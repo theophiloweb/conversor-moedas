@@ -1,6 +1,6 @@
 # Conversor de Moedas: Trabalho de Conclusão de Formação Alura T6 ONE 2024
 
-![Imagem de Capa](https://media.licdn.com/dms/image/D4D22AQHZeSVGTKBarw/feedshare-shrink_800/0/1710978335121?e=1717027200&v=beta&t=x4dV2X-09sSCGm4QGW1lWujove0FZVVS_WU1Ns_Tt7k)
+![Imagem de Capa](https://media.licdn.com/dms/image/D4D22AQH4FUSdhkYpAQ/feedshare-shrink_800/0/1714508620866?e=1717632000&v=beta&t=x4iZt5XwDTy6AGephf2vr5aqan_oCZF8_wRgDXbjip4)
 
 
 ## Badges
